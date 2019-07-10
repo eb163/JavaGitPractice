@@ -5,6 +5,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("Hello world! This is the Main file!");
 		System.out.println("This message demonstrates rebasing and merging!");
+		System.out.println("This is a message from Branch A!");
 	}
 
 }
